@@ -2,42 +2,37 @@
   "events": [
     {
       "id": 1,
-      "category": "concert",
+      "category": "Festival",
       "title": "TomorrowLand",
-      "description": "Festival op De Schorre",
       "location": "Boom",
-      "date": "August 8, 2021",
-      "time": "09:00",
+      "date": "July 21 - 23 & 28 - 30, 2023",
       "imagePath": "tomorrowland.png"
     },
     {
       "id": 2,
-      "category": "concert",
+      "category": "Festival",
       "title": "Rock Werchter",
-      "description": "Festival Rock",
+      "description": "Rock Festival",
       "location": "Werchter",
-      "date": "July 4, 2021",
-      "time": "09:00",
+      "date": "June 29 - July 2, 2023",
       "imagePath": "rockwerchter.png"
     },
     {
       "id": 3,
-      "category": "concert",
+      "category": "Festival",
       "title": "Pukkelpop",
-      "description": "Festival Rock",
+      "description": "Rock Festival",
       "location": "Hasselt",
-      "date": "July 22 2021",
-      "time": "09:00",
+      "date": "August 17 - 20, 2023",
       "imagePath": "pukkelpop.png"
     },
     {
       "id": 4,
-      "category": "concert",
+      "category": "Festival",
       "title": "Graspop",
       "description": "Festival Rock",
       "location": "Dessel",
-      "date": "July 04 2021",
-      "time": "09:00",
+      "date": "June 15 - 18, 2023",
       "imagePath": "graspop.png"
     }
   ]
